@@ -1,0 +1,12 @@
+.contenedorCartas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 13px;
+}
+
+.titulo{
+    font-size: 21px;
+    font-weight: 600;
+}
