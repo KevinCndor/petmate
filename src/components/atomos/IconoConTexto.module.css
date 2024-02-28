@@ -1,19 +1,22 @@
 .nombreMascota {
+  width: max-content;
   font-size: 18px;
   color: #000;
-  margin: 0px 45px 0px 0px;
+  margin: 0px 0px 0px 0px;
   text-align: center;
+  flex: 1;
 }
 
 .iconoLapiz{
     color: #034561;
     font-size: 20px;
-    margin: 0px 0px 0px 0px;
+    margin: 0px 8px 0px 0px;
     cursor: pointer;
-    margin-right: 13px;
 }
 
 .contenedorIT{
+    width: 301px;
+    height: 63px;
     display: flex;
     justify-content: center;
     align-items: center;

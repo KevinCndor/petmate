@@ -1,6 +1,6 @@
 .imagenMascota{
-    width: 103px;
-    height: 47px;
+    width: 103px !important;
+    height: 47px !important;
     border-radius: 10px;
     margin: 0px 0px 0px 13px;
 }
